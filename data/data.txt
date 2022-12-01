@@ -1,0 +1,654 @@
+Scalable and Robust Construction of Topical Hierarchies
+Heterogeneous graph-based intent learning with queries, web pages and Wikipedia concepts
+A hierarchical Dirichlet model for taxonomy expansion for search engines
+A network-assisted co-clustering algorithm to discover cancer subtypes based on gene expression
+On building entity recommender systems using user click log and freebase knowledge
+Troubleshooting interactive complexity bugs in wireless sensor networks using data mining techniques
+Personalized entity recommendation: a heterogeneous information network approach
+Learning to efficiently rank on big data
+Privacy Risk in Anonymized Heterogeneous Information Networks
+Revealing Density-Based Clustering Structure from the Core-Connected Tree of a Network
+Research-insight: providing insight on research by publication network analysis
+MiTexCube: MicroTextCluster Cube for online analysis of text cells and its applications
+Selection of interdependent genes via dynamic relevance analysis for cancer diagnosis
+A framework of traveling companion discovery on trajectory data streams
+KERT: Automatic Extraction and Ranking of Topical Keyphrases from Content-Representative Document Titles
+gIceberg: Towards iceberg analysis in large graphs
+Mining collective intelligence in diverse groups
+Parallel Field Ranking
+Classification and Adaptive Novel Class Detection of Feature-Evolving Data Streams
+A Text Cube Approach to Human, Social and Cultural Behavior in the Twitter Stream
+Mining evidences for named entity disambiguation
+Constructing Topical Hierarchies in Heterogeneous Information Networks
+Feature selection using dynamic weights for classification
+Reinforced Similarity Integration in Image-Rich Information Networks
+A Feature-Enhanced Ranking-Based Classifier for Multimodal Data and Heterogeneous Information Networks
+Semantic Frame-Based Document Representation for Comparable Corpora
+Efficient Direct Mining of Selective Discriminative Patterns for Classification
+Exploring structure and content on the web: extraction and integration of the semi-structured web
+Mining lines in the sand: on trajectory discovery from untrustworthy data in cyber-physical system
+On detecting association-based clique outliers in heterogeneous information networks
+An exploration of discussion threads in social news sites: a case study of the Reddit community
+EventCube: multi-dimensional search and mining of structured and text data
+Large-Scale Spectral Clustering on Graphs
+Clustered Support Vector Machines
+Unsupervised Link Selection in Networks
+A Graph-Based Consensus Maximization Approach for Combining Multiple Supervised and Unsupervised Models
+On Exploiting Transient Social Contact Patterns for Data Forwarding in Delay-Tolerant Networks
+Inferring human mobility patterns from taxicab location traces
+Channeling the deluge: research challenges for big data and information systems
+Trustworthiness analysis of sensor data in cyber-physical systems
+Recommendation in heterogeneous information networks with implicit user feedback
+Multi-View Clustering via Joint Nonnegative Matrix Factorization
+On the Detectability of Node Grouping in Networks
+Exploring and Inferring User-User Pseudo-Friendship for Sentiment Analysis with Heterogeneous Networks
+Resolving Entity Morphs in Censored Data
+PathSelClus: Integrating Meta-Path Selection with User-Guided Object Clustering in Heterogeneous Information Networks
+Research on the Construction of Dynamic Chinese Natural Sign Language Corpus
+The parallel path framework for entity discovery on the web
+Social patterns: Community detection using behavior-generated network datasets
+A phrase mining framework for recursive construction of a topical hierarchy
+AMETHYST: a system for mining and exploring topical hierarchies of heterogeneous data
+Selective sampling on graphs for classification
+Community Distribution Outlier Detection in Heterogeneous Information Networks
+Content coverage maximization on word networks for hierarchical topic summarization
+A Survey of RFID Data Processing
+Spectral Clustering
+Probabilistic Models for Clusterings
+A Survey of Datamining Methods for Sensor Network Bug Diagnosis
+Locality Preserving Feature Learning
+Tweet Ranking Based on Heterogeneous Networks
+A Variance Minimization Criterion to Active Learning on Graphs
+BlueFinder: estimate where a beach photo was taken
+Generalized Fisher Score for Feature Selection
+Modeling and exploiting heterogeneous bibliographic networks for expertise ranking
+A Bayesian Approach to Discovering Truth from Conflicting Sources for Data Integration
+A Bayesian Approach to Discovering Truth from Conflicting Sources for Data Integration
+Construction of Web-Based, Service-Oriented Information Networks: A Data Mining Perspective - (Abstract)
+Integrating community matching and outlier detection for mining evolutionary community outliers
+Parallel field ranking
+Optimizing index for taxonomy keyword search
+Event-based social networks: linking the online and offline social worlds
+Document-topic hierarchies from document graphs
+User guided entity similarity search using meta-path selection in heterogeneous information networks
+Latent Community Topic Analysis: Integration of Community Discovery with Topic Modeling
+Multidimensional Sensor Data Analysis in Cyber-Physical System: An Atypical Cube Approach
+Query-driven discovery of semantically similar substructures in heterogeneous networks
+Integrating meta-path selection with user-guided object clustering in heterogeneous information networks
+Mining event periodicity from incomplete observations
+Mining Heterogeneous Information Networks: The Next Frontier
+Learning influence from heterogeneous social networks
+Uncertainty Reduction for Knowledge Discovery and Information Extraction on the World Wide Web
+IntruMine: Mining Intruders in Untrustworthy Data of Cyber-physical Systems
+Locally Discriminative Coclustering
+Selective Labeling via Error Bound Minimization
+Mining heterogeneous information networks: a structural analysis approach
+SocialCube: A Text Cube Framework for Analyzing Social Media Data
+Mining Flipping Correlations from Large Datasets with Taxonomies
+Probabilistic Models for Text Mining
+On Discovery of Traveling Companions from Streaming Trajectories
+Relation Strength-Aware Clustering of Heterogeneous Information Networks with Incomplete Attributes
+When will it happen?: relationship prediction in heterogeneous information networks
+Relation Strength-Aware Clustering of Heterogeneous Information Networks with Incomplete Attributes
+Mining diversity on social media networks
+Mining Heterogeneous Information Networks: Principles and Methodologies
+Community Trend Outlier Detection Using Soft Temporal Pattern Mining
+Learning Hierarchical Relationships among Partially Ordered Objects with Heterogeneous Attributes and Links
+Citation Prediction in Heterogeneous Bibliographic Networks
+Evaluating Event Credibility on Twitter
+Mining periodic behaviors of object movements for animal and biological sustainability studies
+Building enriched web page representations using link paths
+Mining Knowledge from Interconnected Data: A Heterogeneous Information Network Analysis Approach
+Analysis and Refinement of Cross-Lingual Entity Linking
+Towards Active Learning on Graphs: An Error Bound Minimization Approach
+Predicting Links in Multi-relational and Heterogeneous Networks
+Stream Classification with Recurring and Novel Class Detection Using Class-Based Ensemble
+ETM: Entity Topic Models for Mining Documents Associated with Entities
+Quality of Information Based Data Selection and Transmission in Wireless Sensor Networks
+A Simple Algorithm for Semi-supervised Learning with Improved Generalization Error Bound
+Mining Knowledge from Data: An Information Network Analysis Approach
+RankCompete: Simultaneous ranking and clustering of information networks
+Multidimensional Analysis of Atypical Events in Cyber-Physical Data
+Unsupervised Disaggregation of Low Frequency Power Measurements
+Diversified Trajectory Pattern Ranking in Geo-tagged Social Media
+On Trivial Solution and Scale Transfer Problems in Graph Regularized NMF
+Mining Significant Time Intervals for Relationship Detection
+Linear Discriminant Dimensionality Reduction
+Efficient Mining of Top Correlated Patterns Based on Null-Invariant Measures
+Extracting General Lists from Web Documents: A Hybrid Approach
+Joint Feature Selection and Subspace Learning
+Construction and Analysis of Web-Based Computer Science Information Networks
+An Overview of Social Tagging and Applications
+Finding Top-k Shortest Path Distance Changes in an Evolutionary Network
+Patent Maintenance Recommendation with Patent Information Network Model
+Ranking-based classification of heterogeneous information networks
+LikeMiner: a system for mining the power of 'like' in social media networks
+Learning a Kernel for Multi-Task Clustering
+Towards feature selection in network
+Correlated multi-label feature selection
+TEXplorer: keyword-based object search and exploration in multidimensional text databases
+Probabilistic topic models with biased propagation on heterogeneous information networks
+Mining Flipping Correlations from Large Datasets with Taxonomies
+A Spectral Framework for Detecting Inconsistency across Multi-source Object Relationships
+MiTexCube: MicroTextCluster Cube for Online Analysis of Text Cells
+Generalized Fisher Score for Feature Selection
+Detecting Recurring and Novel Classes in Concept-Drifting Data Streams
+The Joint Inference of Topic Diffusion and Evolution in Social Communities
+LPTA: A Probabilistic Model for Latent Periodic Topic Analysis
+Signature Pattern Covering via Local Greedy Algorithm and Pattern Shrink
+SCENE: Structural Conversation Evolution NEtwork
+Facing the reality of data stream classification: coping with scarcity of labeled data
+Hierarchical aggregate classification with limited supervision for data reduction in wireless sensor networks
+Consensus extraction from heterogeneous detectors to improve performance over network traffic anomaly detection
+Is Objective Function the Silver Bullet? A Case Study of Community Detection Algorithms on Social Networks
+Geo-Friends Recommendation in GPS-based Cyber-physical Social Network
+Dynamic Social Influence Analysis through Time-Dependent Factor Graphs
+Evolutionary Clustering and Analysis of Bibliographic Networks
+Co-author Relationship Prediction in Heterogeneous Bibliographic Networks
+Exposing Complex Bug-Triggering Conditions in Distributed Systems via Graph Mining
+Learning search tasks in queries and web pages via graph regularization
+Learning online discussion structures by conditional random fields
+Authorship classification: a discriminative syntactic tree mining approach
+Collective topic modeling for heterogeneous networks
+Learning relevance from heterogeneous social network and its application in online targeting
+Retrieving k-Nearest Neighboring Trajectories by a Set of Point Locations
+Survey on web spam detection: principles and algorithms
+Differentially private data cubes: optimizing noise sources and consistency
+Geographical topic discovery and comparison
+Trust analysis with clustering
+HyLiEn: a hybrid approach to general list extraction on the web
+Bidirectional mining of non-redundant recurrent rules from a sequence database
+Growing parallel paths for entity-page discovery
+Efficient Topological OLAP on Information Networks
+Mining Discriminative Patterns for Classifying Trajectories on Road Networks
+Classification and Novel Class Detection in Concept-Drifting Data Streams under Time Constraints
+Locally Consistent Concept Factorization for Document Clustering
+A general framework for efficient clustering of large datasets based on activity detection
+The Sparse Regression Cube: A Reliable Modeling Technique for Open Cyber-Physical Systems
+Collection-based sparse label propagation and its application on social group suggestion from photos
+WINACS: construction and analysis of web-based computer science information networks
+Graph cube: on warehousing and OLAP multidimensional networks
+Speed up kernel discriminant analysis
+Efficient Keyword-Based Search for Top-K Cells in Text Cube
+Laplacian Regularized Gaussian Mixture Model for Data Clustering
+Graph Regularized Nonnegative Matrix Factorization for Data Representation
+Heterogeneous network-based trust analysis: a survey
+MoveMine: Mining moving object data for discovery of animal movement patterns
+SocialSpamGuard: A Data Mining-Based Spam Detection System for Social Media Networks
+On Link-based Similarity Join
+PathSim: Meta Path-Based Top-K Similarity Search in Heterogeneous Information Networks
+On Bayesian interpretation of fact-finding in information networks
+Mining Top-K Large Structural Patterns in a Massive Network
+Cloud-based malware detection for evolving data streams
+Methods for mining frequent items in data streams: an overview
+FAST Sequence Mining Based on Sparse Id-Lists
+Power watermarking: Facilitating power-based diagnosis of node silence in remote high-end sensing systems
+DustDoctor: A self-healing sensor data collection system
+Opinosis: A Graph Based Approach to Abstractive Summarization of Highly Redundant Opinions
+Tru-Alarm: Trustworthiness Analysis of Sensor Networks in Cyber-Physical Systems
+Mining Concept-Drifting Data Streams
+Survey on social tagging techniques
+Keyword Search in Text Cube: Finding Top-k Aggregated Cell Documents
+Privacy-aware regression modeling of participatory sensing data
+gSkeletonClu: Density-Based Network Clustering via Structure-Connected Tree Division or Agglomeration
+DIAMOND: Correlation-Based Anomaly Monitoring Daemon for DIME
+Unexpected results in automatic list extraction on the web
+Expectation Maximization Clustering
+-Means Clustering
+-Medoids Clustering
+Quality Threshold Clustering
+Locality Sensitive Hashing Based Clustering
+Mean Shift
+Partitional Clustering
+-Way Spectral Clustering
+Mining Diversity on Networks
+Graph Regularized Transductive Classification on Heterogeneous Information Networks
+NDPMine: Efficiently Mining Discriminative Numerical Features for Pattern-Based Classification
+Classification and Novel Class Detection of Data Streams in a Dynamic Feature Space
+Structure Is Informative: On Mining Structured Information Networks
+Classification and Novel Class Detection in Data Streams with Active Mining
+Hierarchical Web-Page Clustering via In-Page and Cross-Page Link Structures
+Mining periodic behaviors for moving objects
+PET: a statistical model for popular events tracking in social communities
+Graph Indexing
+On community outliers and their efficient detection in information networks
+Modeling Massive RFID Data Sets: A Gateway-Based Movement Graph Approach
+Mining knowledge from databases: an information network analysis approach
+Incremental Clustering for Trajectories
+Mining advisor-advisee relationships from research publication networks
+Mining Moving Object, Trajectory and Traffic Data
+Aggregation of Multiple Judgments for Evaluating Ordered Lists
+Region-based online promotion analysis
+Fast computation of SimRank for static and dynamic information networks
+Mining Graph Patterns
+Top-K aggregation queries over large networks
+Diagnostic powertracing for sensor node failure analysis
+Progressive clustering of networks using Structure-Connected Order of Traversal
+On Graph Query Optimization in Large Networks
+Addressing Concept-Evolution in Concept-Drifting Data Streams
+Discriminative frequent subgraph mining with optimality guarantees
+The Inverse Classification Problem
+Re-examination of interestingness measures in pattern mining: a unified framework
+A worldwide tourism recommendation system based on geotaggedweb photos
+The wisdom of social multimedia: using flickr for prediction and forecast
+SHRINK: a structural clustering algorithm for detecting hierarchical communities in networks
+Mining topic-level influence in heterogeneous networks
+Visual cube and on-line analytical processing of images
+Mapping web pages to database records via link paths
+Swarm: Mining Relaxed Temporal Moving Object Clusters
+TopCells: Keyword-based search of top-k aggregated documents in text cube
+A Unified Framework for Link Recommendation Using Random Walks
+Entity relation discovery from web tables and links
+Keyword extraction for social snippets
+CETR: content extraction via tag ratios
+Topic initiator detection on the world wide web
+Social group suggestion from user image collections
+LINKREC: a unified framework for link recommendation with user attributes and graph structure
+iRIN: image retrieval in image-rich information networks
+RankCompete: simultaneous ranking and clustering of web photos
+MoveMine: mining moving object databases
+Mining Heterogeneous Information Networks by Exploring the Power of Links
+A Particle-and-Density Based Evolutionary Clustering Method for Dynamic Networks
+Promotion Analysis in Multi-Dimensional Space
+iNextCube: Information Network-Enhanced Text Cube
+Top-down mining of frequent closed patterns from very high dimensional data
+Graph-based Consensus Maximization among Multiple Supervised and Unsupervised Models
+Integrating Novel Class Detection with Classification for Concept-Drifting Data Streams
+VideoMule: a consensus learning approach to multi-label classification from noisy user-generated videos
+Locality Preserving Nonnegative Matrix Factorization
+Modeling Probabilistic Measurement Correlations for Problem Determination in Large-Scale Distributed Systems
+CHRONICLE: A Two-Stage Density-Based Clustering Algorithm for Dynamic Networks
+Subspace Discovery for Promotion: A Cell Clustering Approach
+Mining Heterogeneous Information Networks by Exploring the Power of Links
+P-Rank: a comprehensive structural similarity measure over information networks
+Mining Graph Patterns Efficiently via Randomized Summaries
+MLR-Index: An Index Structure for Fast and Scalable Similarity Search in High Dimensions
+Topic Cube: Topic Modeling for OLAP on Multidimensional Text Databases
+Near-optimal Supervised Feature Selection among Frequent Subgraphs
+GAD: General Activity Detection for Fast Clustering on Large Data
+Heterogeneous source consensus learning via decision propagation and negotiation
+Classification of software behaviors for failure detection: a discriminative pattern mining approach
+Ranking-based clustering of heterogeneous information networks with star network schema
+Exploring social tagging graph for web object classification
+Finding Symbolic Bug Patterns in Sensor Networks
+Scalable OLAP and mining of information networks
+A Multi-partition Multi-chunk Ensemble Technique to Classify Concept-Drifting Data Streams
+Real-Time Knowledge Discovery and Dissemination for Intelligence Analysis
+RankClus: integrating clustering with ranking for heterogeneous information network analysis
+Graph OLAP: a multi-dimensional framework for graph data analysis
+Exploring optimization of semantic relationship graph for multi-relational Bayesian classification
+Assured Information Sharing Life Cycle
+Efficient Mining of Closed Repetitive Gapped Subsequences from a Sequence Database
+Temporal Outlier Detection in Vehicle Traffic Data
+Topic modeling for OLAP on multidimensional text databases: topic cube and its applications
+Mining Personal Image Collection for Social Group Suggestion
+iTopicModel: Information Network-Integrated Topic Modeling
+Parallel PathFinder Algorithms for Mining Structures from Graphs
+Filtering and Refinement: A Two-Stage Approach for Efficient and Effective Anomaly Detection
+Data Mining
+Stream Mining
+Pattern-Growth Methods
+Frequent Itemsets and Association Rules
+Approximate Frequent Itemset Mining In the Presence of Random Noise
+Direct Discriminative Pattern Mining for Effective Classification
+Anomaly Detection in Moving Object
+OLAP, Spatial
+: trajectory classification using hierarchical region-based and trajectory-based clustering
+A Systematic Study of Failure Proximity
+SRDA: An Efficient Algorithm for Large-Scale Discriminant Analysis
+Learning a Maximum Margin Subspace for Image Retrieval
+Truth Discovery with Multiple Conflicting Information Providers on the Web
+P-Cube: Answering Preference Queries in Multi-Dimensional Space
+Trajectory Outlier Detection: A Partition-and-Detect Framework
+Training Linear Discriminant Analysis in Linear Time
+Stream Sequential Pattern Mining with Precise Error Bounds
+Non-negative Matrix Factorization on Manifold
+Text Cube: Computing IR Measures for Multidimensional Text Database Analysis
+Graph OLAP: Towards Online Analytical Processing on Graphs
+A Practical Approach to Classify Evolving Data Streams: Training with Limited Amount of Labeled Data
+Exploring the Power of Heuristics and Links in Multi-relational Data Mining
+Data Mining for Diagnostic Debugging in Sensor Networks: Preliminary Evidence and Lessons Learned
+Knowledge transfer via multiple model local structure mapping
+Mining preferences from superior and inferior examples
+Direct mining of discriminative and essential frequent patterns via model-based search tree
+Data Mining - Know It All
+Sampling cube: a framework for statistical olap over sampling data
+Sparse Projections over Graph
+CISpan: Comprehensive Incremental Mining Algorithms of Closed Sequential Patterns for Multi-Versional Software Mining
+SpaRClus: Spatial Relationship Pattern-Based Hierarchial Clustering
+PerRank: Personalized Rank Retrieval with Categorical and Numerical Attributes
+Modeling hidden topics on document manifold
+Dustminer: troubleshooting interactive complexity bugs in sensor networks
+Mining significant graph patterns by leap search
+Classifying Data Streams with Skewed Class Distributions and Concept Drifts
+BibNetMiner: mining bibliographic information networks
+ARCube: supporting ranking aggregate queries in partially materialized data cubes
+On effective presentation of graph patterns: a structural representative approach
+On Having Search Engines Deliver Hierarchies of Web Pages
+Data mining for image/video processing: a promising research frontier
+Efficiently Identifying Max-Gap Clusters in Pairwise Genome Comparison
+Trajectory clustering: a partition-and-group framework
+On Efficient Processing of Subspace Skyline Queries on High Dimensional Data
+TagSmart: analysis and visualization for yeast mutant fitness data measured by tag microarrays
+Spectral regression: a unified subspace learning framework for content-based image retrieval
+CrossClus: user-guided multi-relational clustering
+Frequent pattern mining: current status and future directions
+Regularized locality preserving indexing via spectral regression
+Progressive and selective merge: computing top-k with ad-hoc ranking functions
+Finding frequent items in data streams using hierarchical information
+Traffic Density-Based Discovery of Hot Routes in Road Networks
+Indexing Noncrashing Failures: A Dynamic Program Slicing-Based Approach
+Mining Approximate Top-K Subspace Anomalies in Multi-Dimensional Time-Series Data
+Integrating OLAP and Ranking: The Ranking-Cube Methodology
+Efficient Kernel Discriminant Analysis via Spectral Regression
+On Appropriate Assumptions to Mine Data Streams: Analysis and Practice
+Efficient Discovery of Frequent Approximate Sequential Patterns
+Spectral Regression: A Unified Approach for Sparse Subspace Learning
+gApprox: Mining Frequent Approximate Patterns from a Massive Network
+DataScope: Viewing Database Contents in Google Maps' Way
+Towards Graph Containment Search and Indexing
+Adaptive Fastest Path Computation on a Road Network: A Traffic Mining Approach
+Exploring the Power of Links in Data Mining
+Regularized regression on image manifold for retrieval
+Mining Colossal Frequent Patterns by Core Pattern Fusion
+Locality Sensitive Discriminant Analysis
+Object Distinction: Distinguishing Objects with Identical Names
+Multi-Dimensional Analysis of Data Streams Using Stream Cubes
+The Multi-Relational Skyline Operator
+Cost-Conscious Cleaning of Massive RFID Data Sets
+Discriminative Frequent Pattern Analysis for Effective Classification
+Isometric Projection
+Truth discovery with multiple conflicting information providers on the web
+Mining, Indexing, and Searching Graphs in Large Data Sets
+On compressing frequent patterns
+Semantic annotation of frequent patterns
+Association Mining in Large Databases: A Re-examination of Its Measures
+gPrune: A Constraint Pushing Framework for Graph Pattern Mining
+Semi-supervised Discriminant Analysis
+On Clustering Massive Data Streams: A Summarization Paradigm
+Frequent Closed Sequence Mining without Candidate Maintenance
+Introduction
+ROAM: Rule- and Motif-Based Anomaly Detection in Massive Moving Object Data Sets
+Spectral Regression for Efficient Regularized Subspace Learning
+Constraint-based sequential pattern mining: the pattern-growth methods
+Learning a Spatially Smooth Subspace for Face Recognition
+Research Frontiers in Advanced Data Mining Technologies and Applications
+Computing Iceberg Cubes by Top-Down and Bottom-Up Integration: The StarCubing Approach
+A General Framework for Mining Concept-Drifting Data Streams with Skewed Distributions
+Efficient Classification across Multiple Database Relations: A CrossMine Approach
+Searching Substructures with Superimposed Distance
+Mining Interesting Patterns from Very High Dimensional Data: A Top-Down Row Enumeration Approach
+Integrative Array Analyzer: a software package for analysis of cross-platform and cross-species microarray data
+LinkClus: Efficient Clustering via Heterogeneous Semantic Links
+C-Cubing: Efficient Computation of Closed Cubes by Aggregation-Based Checking
+Error-Adaptive and Time-Aware Maintenance of Frequency Counts over Data Streams
+Discovering interesting patterns through user's interactive feedback
+Extracting redundancy-aware top-k patterns
+Motion-Alert: Automatic Anomaly Detection in Massive Moving Objects
+Closed Constrained Gradient Mining in Retail Databases
+Generating semantic annotations for frequent patterns with context analysis
+GPLAG: detection of software plagiarism by program dependence graph analysis
+Mining, Indexing, and Similarity Search in Graphs and Complex Structures
+Warehousing and Analyzing Massive RFID Data Sets
+On the Inverse Classification Problem and its Applications
+How Bayesians Debug
+Answering Top-k Queries with Multi-Dimensional Selections: The Ranking Cube Approach
+Tensor space model for document analysis
+Top-Down Mining of Interesting Patterns from Very High Dimensional Data
+Towards Robust Indexing for Ranked Queries
+Statistical Debugging: A Hypothesis Testing-Based Approach
+A Framework for On-Demand Classification of Evolving Data Streams
+Ranking Outliers Using Symmetric Neighborhood Relationship
+AC-Close: Efficiently Mining Approximate Closed Itemsets by Core Pattern Recovery
+Failure proximity: a fault localization-based approach
+Feature-based similarity search in graph structures
+FlowCube: Constructuing RFID FlowCubes for Multi-Dimensional Analysis of Commodity Flows
+Ranking objects based on relationships
+Mining Control Flow Abnormality for Logic Error Isolation
+An Erratum on "Pushing Convertible Constraints in Frequent Itemset Mining"
+Mining compressed commodity workflows from massive RFID data sets
+Regression Cubes with Lossless Compression and Aggregation
+Warehousing and Mining Massive RFID Data Sets
+Mining Behavior Graphs for "Backtrace" of Noncrashing Bugs
+Community Mining from Multi-relational Networks
+Mining Data Streams
+Efficient Processing of Ranked Queries with Sweeping Selection
+Survey of Biodata Analysis from a Data Mining Perspective
+Efficient Classification from Multiple Heterogeneous Databases
+A sampling-based framework for parallel data mining
+SeqIndex: Indexing Sequences by Sequential Pattern Analysis
+Document Clustering Using Locality Preserving Indexing
+Mining Compressed Frequent-Pattern Sets
+Searching for Related Objects in Relational Databases
+GraphMiner: a structural pattern-mining system for large disk-based graph databases and its applications
+Substructure Similarity Search in Graph Databases
+TSP: Mining top- closed sequential patterns
+SOBER: statistical model-based bug localization
+Stream Cube: An Architecture for Multi-Dimensional Analysis of Data Streams
+A tribute to Professor Hongjun Lu
+Making SVMs Scalable to Large Data Sets using Hierarchical Cluster Indexing
+Graph indexing based on discriminative frequent structure analysis
+On High Dimensional Projected Clustering of Data Streams
+Mining coherent dense subgraphs across massive biological networks for functional discovery
+Image clustering with tensor representation
+Mining Evolving Customer-Product Relationships in Multi-Dimensional Space
+Divide-and-Approximate: A Novel Constraint Push Strategy for Iceberg Cube Mining
+Cross-relational clustering with user's guidance
+Mining closed relational graphs with connectivity constraints
+Summarizing itemset patterns: a profile-based approach
+Mining Closed Relational Graphs with Connectivity Constraints
+TFP: An Efficient Algorithm for Mining Top-K Frequent Closed Itemsets
+Parallel mining of closed sequential patterns
+BIDE: Efficient Mining of Frequent Closed Sequences
+High-Dimensional OLAP: A Minimal Cubing Approach
+CrossMine: Efficient Classification Across Multiple Database Relations
+Mining complex matchings across Web query interfaces
+CrossMine: Efficient Classification Across Multiple Database Relations
+Pushing Convertible Constraints in Frequent Itemset Mining
+MAIDS: Mining Alarming Incidents from Data Streams
+Mining Condensed Frequent-Pattern Bases
+The third SIGKDD workshop on mining temporal and sequential data (KDD/TDM )
+From Sequential Pattern Mining to Structured Pattern Mining: A Pattern-Growth Approach
+Graph Indexing: A Frequent Structure-based Approach
+Mining Constrained Gradients in Large Databases
+Mining Thick Skylines over Large Databases
+Mining Sequential Patterns by Pattern-Growth: The PrefixSpan Approach
+Mining Frequent Patterns without Candidate Generation: A Frequent-Pattern Tree Approach
+PEBL: Web Page Classification without Negative Examples
+CCMine: Efficient Mining of Confidence-Closed Correlated Patterns
+Continuous K-Nearest Neighbor Search for Moving Objects
+Mining scale-free networks using geodesic clustering
+MM-Cubing: Computing Iceberg Cubes by Factorizing the Lattice Space
+Clustering moving objects
+Discovering complex matchings across web query interfaces: a correlation mining approach
+IncSpan: incremental mining of sequential patterns in large database
+On demand classification of data streams
+Scalable Construction of Topic Directory with Nonparametric Closed Termset Mining
+A Framework for Projected Clustering of High Dimensional Data Streams
+Text classification from positive and unlabeled documents
+CoMine: Efficient Mining of Correlated Patterns
+Profile-Based Object Matching for Information Integration
+A Framework for Clustering Evolving Data Streams
+Cancer classification using gene expression data
+Star-Cubing: Computing Iceberg Cubes by Top-Down and Bottom-Up Integration
+Discovering Compact and Highly Discriminative Features or Feature Combinations of Drug Activities Using Support Vector Machines
+CPAR: Classification based on Predictive Association Rules
+Mining Typical Preferences of Collaborative User Groups
+CloSpan: Mining Closed Sequential Patterns in Large Databases
+Efficient Mining of Intertransaction Association Rules
+Pushing Support Constraints Into Association Rules Mining
+Classifying large data sets using SVMs with hierarchical clusters
+Pushing Aggregate Constraints by Divide-and-Approximate
+CloseGraph: mining closed frequent graph patterns
+CLOSET+: searching for the best strategies for mining frequent closed itemsets
+Mining concept-drifting data streams using ensemble classifiers
+Object Matching for Information Integration: A Profiler-Based Approach
+TSP: Mining Top-K Closed Sequential Patterns
+Database Research at the University of Illinois at Urbana-Champaign
+Emerging scientific applications in data mining
+Multi-Dimensional Regression Analysis of Time-Series Data Streams
+Mining Top-K Frequent Closed Patterns without Minimum Support
+Mining long sequential patterns in a noisy environment
+Constrained frequent pattern mining: a pattern-growth view
+CubeExplorer: online exploration of data cubes
+Online Analytical Processing Stream Data: Is It Feasible?
+Quotient Cube: How to Summarize the Semantics of a Data Cube
+On Computing Condensed Frequent Pattern Bases
+Mining sequential patterns with constraints in large databases
+gSpan: Graph-Based Substructure Pattern Mining
+Heterogeneous Learner for Web Page Classification
+Data Mining for Web Intelligence
+CLARANS: A Method for Clustering Objects for Spatial Data Mining
+How Can Data Mining Help Bio-Data Analysis?
+Top Down FP-Growth for Association Rule Mining
+PEBL: positive example based learning for Web page classification using SVM
+Mining frequent item sets by opportunistic projection
+A template model for multidimensional inter-transactional association rules
+Profit Mining: From Patterns to Actions
+Proceedings of the Second SIAM International Conference on Data Mining, Arlington, VA, USA, April -, 
+Efficient Computation of Iceberg Cubes with Complex Measures
+Mining Frequent Item Sets with Convertible Constraints
+PrefixSpan: Mining Sequential Patterns by Prefix-Projected Growth
+Mining Multi-Dimensional Constrained Gradients in Data Cubes
+Spatial Clustering in the Presence of Obstacles
+DNA-Miner: A System Prototype for Mining DNA Sequences
+Scalable frequent-pattern mining methods: an overview
+CMAR: Accurate and Efficient Classification Based on Multiple Class-Association Rules
+H-Mine: Hyper-Structure Mining of Frequent Patterns in Large Databases
+Constraint-based clustering in large databases
+Mining top-n local outliers in large databases
+Multi-Dimensional Sequential Pattern Mining
+RecTree: An Efficient Collaborative Filtering Method
+Fault-Tolerant Frequent Pattern Mining: Problems and Challenges
+Reminiscences on Influential Papers
+CLOSET: An Efficient Algorithm for Mining Frequent Closed Itemsets
+Discovering Geographic Knowledge in Data Rich Environments: A Report on a Specialist Meeting
+Mining Frequent Patterns without Candidate Generation
+Mining Frequent Patterns by Pattern-Growth: Methodology and Implications
+Mining Recurrent Items in Multimedia with Progressive Resolution Refinement
+AIM: Approximate Intelligent Matching for Time Series Data
+Object-Based Selective Materialization for Efficient Implementation of Spatial Data Cubes
+Efficient Rule-Based Attribute-Oriented Induction for Data Mining
+COE: Clustering with Obstacles Entities. A Preliminary Study
+Mining Access Patterns Efficiently from Web Logs
+Mining Frequent Itemsets Using Support Constraints
+Beyond intratransaction association analysis: mining multidimensional intertransaction association rules
+Can we push more constraints into frequent pattern mining?
+Data Mining: Concepts and Techniques
+Geo-Spatial Clustering with User-Specified Constraints
+FreeSpan: frequent pattern-projected sequential pattern mining
+Join Index Hierarchy: An Indexing Structure for Efficient Navigation in Object-Oriented Databases
+Efficient Polygon Amalgamation Methods for Spatial OLAP and Spatial Data Mining
+Mining Inter-Transaction Associations with Templates
+Mining Multiple-Level Association Rules in Large Databases
+Optimization of Constrained Frequent Set Queries with -variable Constraints
+Exploratory Mining via Constrained Frequent Set Queries
+Breaking the Barrier of Transactions: Mining Inter-Transaction Association Rules
+Plan Mining by Divide-and-Conquer
+Efficient Mining of Partial Periodic Patterns in Time Series Database
+Constraint-Based Multidimensional Data Mining
+Review - An Array-Based Algorithm for Simultaneous Multidimensional Aggregates
+Exploratory Mining and Pruning Optimizations of Constrained Association Rules
+Selective Materialization: An Efficient Method for Spatial Data Cube Construction
+Discovering Web Access Patterns and Trends by Applying OLAP and Data Mining Technology on Web Logs
+Mining Segment-Wise Periodic Patterns in Time-Related Databases
+Mining multimedia data
+Towards On-Line Analytical Mining in Large Databases
+MultiMediaMiner: A System Prototype for Multimedia Data Mining
+Knowledge representation and discovery based on linguistic atoms
+Evaluation of Declarative n-Queens Recursion: A Deductive Database Approach
+WebML: Querying the World-Wide Web for Resources and Knowledge
+Editorial
+Generalization-Based Data Mining in Object-Oriented Databases Using an Object Cube Model
+Data Mining: Where is it Heading? (Panel)
+Metarule-Guided Mining of Multi-Dimensional Association Rules Using Data Cubes
+DBMiner: a system for data mining in relational databases and data warehouses
+Generalization and Decision Tree Induction: Efficient Classification in Data Mining
+GeoMiner: A System Prototype for Spatial Data Mining
+OLAP Mining: Integration of OLAP with Data Mining
+DBMiner: A System for Mining Knowledge in Large Relational Databases
+Proceedings of the Second International Conference on Knowledge Discovery and Data Mining (KDD-), Portland, Oregon, USA
+Spatial Data Mining: Progress and Challenges
+Maintenance of Discovered Association Rules in Large Databases: An Incremental Updating Technique
+Attribute-Oriented Induction in data Mining
+Proceedings of the Second International Conference on Knowledge Discovery and Data Mining (KDD-)
+Index Nesting - An Efficient Approach to Indexing in Object-Oriented Databases
+A Fast Distributed Algorithm for Mining Association Rules
+Intelligent Query Answering by Knowledge Discovery Techniques
+Data Mining: An Overview from a Database Perspective
+Data Mining Techniques
+DBMiner: Interactive Mining of Multiple-Level Knowledge in Relational Databases
+Evaluation of Regular Nonlinear Recursions by Deductive Database Techniques
+Discovery of Multiple-Level Association Rules from Large Databases
+Information-Associated Join Indices for Spatial Range Search
+Fact Updates in Logic Databases
+Normalization and Compilation of Deductive and Object-Oriented Databases Programs for Efficient Query Evaluation
+Meta-Rule-Guided Mining of Association Rules in Relational Databases
+Maintenance of Discovered Knowledge: A Strategy for Updating Association Rules (Abstract)
+Resource and Knowledge Discovery in Global Information Systems: A Preliminary Design and Experiment
+Chain-Split Evaluation in Deductive Databases
+Mining Knowledge at Multiple Concept Levels
+Discovery of Spatial Association Rules in Geographic Information Databases
+Query evaluation and optimization in deductive and object-oriented spatial databases
+Advances of the DBLearn System for Knowledge Discovery in Large Databases
+LogicBase: A Deductive Database System Prototype
+How Does Knowledge Discovery Cooperate with Active Database Techniques in Controlling Dynamic Environment?
+Multichannel Delay Sensitive Data Retrieval
+Towards Efficient Induction Mechanisms in Database Systems
+Cooperative Query Answering Using Multiple Layered Databases
+Constraint-Based Query Evaluation in Deductive Databases
+DBLearn: A System Prototype for Knowledge Discovery in Relational Databases
+A Case-Based Reasoning Approach for Associative Query Answering
+Incremental Processing of Logic Database Relations
+Delay-Sensitive Multimedia on Disks
+Join Index Hierarchies for Supporting Efficient Navigations in Object-Oriented Databases
+A Study on the Structure of Linear Recursion
+Dynamic Generation and Refinement of Concept Hierarchies for Knowledge Discovery in Databases
+Efficient and Effective Clustering Methods for Spatial Data Mining
+Homomorphic Tree Embeddings and Their Applications to Recursive Program Optimization
+Data-Driven Discovery of Quantitative Rules in Relational Databases
+LogicBase: A System Prototype for Deductive Query Evaluation
+Outline of the LogicBase Demonstration
+Normalization of Linear Recursions in Deductive Databases
+Evaluation of Regular Nonlinear Recursive Programs
+An Attribute-Oriented Rough Set Approach for Knowledge Discovery in Databases
+Human-Computer Interfaces: DBLEARN and System X
+Compilation and evaluation of linear mutual recursions
+Chain-Based Evaluation - A Bridge Linking Recursive and Nonrecursive Query Evaluation
+Automatic generation of compiled forms for linear recursions
+Efficient Deduction and Induction: Key to the Success of Data-Intensive Knowledge-Base Systems
+Compressed Counting Method
+Binding Propagation Beyond the Reach of Rule/Goal Graphs
+Compilation-Based List Processing in Deductive Databases
+N-Queens Problem Revisited: A Deductive Database Approach
+Chain-Split Evaluation in Deductive Databases
+Classification and Compilation of Linear Recursive Queries in Deductive Databases
+Distance-Associated Join Indices for Spatial Range Search
+Knowledge Discovery in Databases: An Attribute-Oriented Approach
+Attribute-Oriented Induction in Relational Databases
+Efficient Evaluation of Multiple Linear Recursions
+Evaluation of functional linear recursions: a compilation approach
+Learning in relational databases: an attribute-oriented approach
+Efficient Access Methods in Deductive and Object-Oriented Databases
+On the Power of Query-Independent Compilation
+Constraint-Based Reasoning in Deductive Databases
+Efficient Evaluation of Linear Recursions with Function Sysmbols in Deductive Databases
+From transitive closure recursions to single-chain recursions
+An Attribute-Oriented Approach for Learning Classification Rules from Relational Databases
+Path: An Approach to Incorporate List Processing in A Relational Database
+Asynchronous Chain Recursions
+The Level-Cycle Merging Method
+Derivation of Magic Sets by Compilation
+Processing Multiple Linear Recursions
+Compiling general linear recursions by variable connection graph analysis
+Multi-way counting method
+Asynchronous Chain Recursions
+One-Directional Recursive Formulas
+Selection of Processing Strategies for Different Recursive Queries
+What Kinds of Recursion Can Be Processed by Transitive Closure Strategies?
+Semantic Query Optimization in Recursive Databases
+Classification of Recursive Formulas in Deductive Databases
+The Processing and Evaluation of Transitive Closure Queries
+Handling Redundancy in the Processing of Recursive Database Queries
+Some Performance Results on Recursive Query Processing in Relational Database Systems
+Le Petit Chaperon rouge partit aussitôt pour aller chez sa mère-grand qui demeurait dans un autre village. En passant dans la forêt ellerencontra compère le loup. Le loup avait bien envie de la manger mais il n’osa, à cause des bûcherons qui étaient dans la forêt
